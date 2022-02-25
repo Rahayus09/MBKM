@@ -1,0 +1,85 @@
+#opening {
+    background-color:#F1F3FF;
+    margin-top: 100px;
+}
+
+#car-img {
+    height: 400px;
+    margin-top: 20px;
+}
+
+.testimonial .owl-carousel .item {
+    height: 270px;
+    width: 619px;
+    left: 410px;
+    top: 1652px;
+    border-radius: 8px;
+  
+}
+
+.testimonial .owl-carousel .item .img-testimonial {
+    width: 80px;
+    height: 80px;
+    margin: 95px 46px 95px 46px;    
+}
+
+.testimonial .owl-carousel .item .img-rating {
+    width: 80px;
+    height: 16px;
+    margin-bottom: 8px;    
+}
+.container .card-banner {
+    height: 326px;
+    width: 1168px;
+    left: 136px;
+    top: 1078px;
+    border-radius: 13px;
+
+}
+
+.container .card-banner .card-title {
+    color: white;
+    font-family: Helvetica;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.container .card-banner .card-title .card-text {
+    color: whit;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.form-select {
+    height: 56px;
+    width: 668px;
+    left: 0px;
+    top: 0px;
+    border-radius: 4px;
+
+}
+
+.form-select .Apa-aja {
+
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+
+
